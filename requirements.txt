@@ -1,0 +1,6 @@
+openai
+httpx
+python-pptx
+streamlit
+python-dotenv
+requests
