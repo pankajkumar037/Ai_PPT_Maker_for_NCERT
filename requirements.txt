@@ -1,6 +1,8 @@
 openai
-httpx
 python-pptx
 streamlit
 python-dotenv
-requests
+pillow
+matplotlib
+seaborn
+comtypes
